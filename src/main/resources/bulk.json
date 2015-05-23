@@ -1,0 +1,10 @@
+{ "id": 1, "source": "twitter", "data": "tweet 1" , "post_date": "2015-05-12"}
+{ "id": 2, "source": "twitter", "data": "tweet 2" , "post_date": "2015-05-13"}
+{ "id": 3, "source": "twitter", "data": "tweet 3" , "post_date": "2015-05-14"}
+{ "id": 4, "source": "twitter", "data": "tweet 4" , "post_date": "2015-05-15"}
+{ "id": 5, "source": "twitter", "data": "tweet 5" , "post_date": "2015-05-16"}
+{ "id": 6, "source": "twitter", "data": "tweet 6" , "post_date": "2015-05-17"}
+{ "id": 7, "source": "twitter", "data": "tweet 7" , "post_date": "2015-05-18"}
+{ "id": 8, "source": "twitter", "data": "tweet 8" , "post_date": "2015-05-19"}
+{ "id": 9, "source": "twitter", "data": "tweet 9" , "post_date": "2015-05-20"}
+{ "id": 10, "source": "twitter", "data": "tweet 10" , "post_date": "2015-05-21"}
