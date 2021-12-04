@@ -21,7 +21,7 @@ import org.elasticsearch.search.sort.SortOrder
 import org.elasticsearch.action.search.SearchResponse
 
 /**
- * @author narayan
+ * @author narayan kumar
  *
  */
 trait ESOperation {
